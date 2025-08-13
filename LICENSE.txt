@@ -1,0 +1,15 @@
+SnapLook License - 2025
+Muhammed Can Yüce (GitHub: camurex007)
+
+Telif Hakkı (c) 2025 Muhammed Can Yüce. Tüm hakları saklıdır.
+
+Bu yazılım ve tüm dosyaları, yürütülebilirler (.exe), kaynak kodlar, kütüphaneler ve belgeler ("Yazılım") yalnızca **kişisel kullanım** veya **eğitim amaçlı kullanım** için izinlidir.  
+
+Kullanıcılar şunları yapamaz:
+- Yazılımı veya türevlerini **ticari amaçlarla kullanmak**,
+- Yazılımı satmak, lisanslamak veya dağıtmak,
+- Yazılımı, kamuya açık veya özel şekilde ticari projelerde kullanmak.
+
+Bu kurallara uymayan herhangi bir kullanım **yasal işlemle sonuçlanacaktır**.
+
+Yazılım, “OLD SCHOOL PROTECTION” prensibiyle korunmaktadır: izin verilmedikçe kopyalanamaz, çoğaltılamaz veya ticari olarak kullanılamaz.
